@@ -1,5 +1,9 @@
 # Using Statistical Hypothesis Testing to Draw Business Insights
 
+The jupyter notebook for this project can be found [here.](https://github.com/emilypfeifer/NorthWind/blob/master/student.ipynb)
+
+The blog post for this project can be found [here.](https://pfeiferem.weebly.com/hypothesis-testingnorthwind.html)
+
 ## The Data
 The NorthWind data is a free, open-source dataset created by Microsoft containing data from a fictional company.
 
